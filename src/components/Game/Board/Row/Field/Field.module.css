@@ -1,0 +1,26 @@
+.field {
+    height: 18px;
+    width: 18px;
+    background-color: #ffd541;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 8px;
+}
+
+.snakeField {
+    height: 18px;
+    width: 18px;
+    background-color: darkred;
+}
+.firstSnakeBlockField {
+    height: 18px;
+    width: 18px;
+    background-color: black;
+}
+.appleField {
+    height: 18px;
+    width: 18px;
+    background-color: #138b00;
+}
