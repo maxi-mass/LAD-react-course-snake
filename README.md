@@ -1,1 +1,1 @@
-# LAD-react-course-snake
+# Реализация игры "Змейка" на ReactJS
